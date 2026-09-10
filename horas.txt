@@ -1,0 +1,10 @@
+x/8:
+    Gui: 7h45m
+
+10/9:
+    Lara: 3h35m
+    Gui: 50min
+
+TOTAL:
+    Lara: 3h35m
+    Gui: 8h35m
