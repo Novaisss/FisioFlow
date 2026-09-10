@@ -25,7 +25,7 @@ export default function App() {
           </div>
           <div>
             <span className="text-xl font-bold bg-gradient-to-r from-cyan-700 via-teal-700 to-emerald-800 bg-clip-text text-transparent">
-              Fisiomar
+              FisioFlow
             </span>
             <span className="block text-[10px] uppercase tracking-widest font-semibold text-cyan-600"></span>
           </div>
